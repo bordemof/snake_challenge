@@ -2,7 +2,7 @@
 var SnakeGame = function(options) {
 
     var options = {
-        dificuty: 'easy',
+        dificulty: 'easy', // Still not used
         background: 'white',
         snakeColor: 'black',
         boardColor: 'thick solid gray',
